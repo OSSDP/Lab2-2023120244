@@ -39,6 +39,7 @@ public class L2023120244_6_Test {
     public static void main(String[] args) {
         Solution6 solution = new Solution6();
 
+        // 我的学号是2023120240，已验证该同学的测试用例是通过的
         // 测试用例1
         List<List<String>> favoriteCompanies1 = Arrays.asList(
             Arrays.asList("leetcode", "google", "facebook"),
